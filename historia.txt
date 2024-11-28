@@ -1,0 +1,64 @@
+Título: A Fortaleza de Caledor
+
+Passo 0 - Introdução
+Em um tempo sombrio da Idade Média, onde feudos disputavam poder e magia era um conhecimento secreto, erguia-se a imponente fortaleza de Caledor, envolta por uma floresta densa e ancestral. O vento assobiava entre as pedras antigas, carregando lendas sobre a fortaleza e o seu precioso segredo: um amuleto de cristal que, segundo histórias antigas, possuía o poder de controlar as forças da natureza e trazer prosperidade para quem o possuísse.
+
+A Fortaleza de Caledor era protegida pelo lorde Edwyn, um guerreiro de barba grisalha e cicatrizes que contavam suas batalhas contra invasores e criaturas que rondavam os arredores da fortaleza. Ele acreditava que o poder do amuleto só deveria ser usado em situações de grande necessidade. Ao lado dele estavam quatro personagens igualmente corajosos e ambiciosos:
+
+Helena, a arqueira de olhos verdes, sagaz e ágil, que cresceu nos campos e florestas vizinhas. Seu coração era tão afiado quanto suas flechas, e ela não confiava em ninguém com facilidade.
+
+Baldric, o aprendiz de alquimista, jovem e curioso, que possuía o conhecimento das ervas e misturas alquímicas. Ele vestia um manto surrado com bolsos cheios de ingredientes e frascos, e seu olhar mostrava um misto de medo e fascínio pelo amuleto.
+
+Sir Gareth, um cavaleiro veterano, imenso em tamanho e força, conhecido por seu senso de honra e lealdade a Edwyn. Ele carregava uma espada larga e usava uma armadura que reluzia mesmo sob a luz fraca do sol, sendo o mais experiente e respeitado do grupo.
+
+Lana, uma camponesa que possuía dons de cura e sabia ler os sinais do tempo e da natureza. Tímida e reservada, Lana era conhecida pela sua bondade e pelo desejo de proteger seu povo das pragas e da fome que afligiam a região.
+
+A missão era clara: os boatos de que um grupo rival buscava o amuleto haviam chegado até Caledor, e Lorde Edwyn ordenou que seus aliados partissem em busca de um lugar seguro para escondê-lo. Antes de sair, eles se depararam com uma bifurcação no interior da fortaleza, onde duas grandes portas de madeira, cada uma com um botão antigo e enferrujado, estavam à sua frente.
+
+Decisão
+Botão 1: O grupo segue para os corredores da masmorra, onde o ar é pesado e escuro.
+Botão 2: O grupo sobe as escadarias até a torre, de onde se pode ver a floresta que cerca Caledor.
+
+Passo 1 - Escolha do Botão 1
+Ao pressionar o botão 1 ,a porta que leva às profundezas da masmorra se abre, revelando um corredor estreito e úmido. As chamas das tochas dançam enquanto eles avançam, e o eco dos seus passos ressoa pelo lugar sombrio. Em pouco tempo, eles avistam duas novas portas à frente, cada uma com um botão ornamentado:
+
+Botão 3: Eles seguem pelo túnel mais à direita, que leva a uma sala cheia de armas e armadilhas antigas.
+Botão 4: Eles decidem explorar o caminho da esquerda, onde ouvem sons misteriosos e avistam uma luz fraca ao longe.
+
+Passo 2 - Escolha do Botão 2
+Caso decidam subir pela escadaria (Botão 2), o grupo logo se depara com uma visão ampla da floresta e das montanhas ao longe, mas também percebe que o ar aqui é rarefeito e frio. Helena, a arqueira, sente um arrepio ao avistar algo suspeito no horizonte: uma fumaça negra que indica possíveis invasores. O grupo está nervoso, e dois caminhos aparecem:
+
+Botão 5: Descer para o salão principal e armar defesas rapidamente.
+Botão 6: Fugir pela passagem secreta atrás da torre para despistar possíveis inimigos.
+
+Passo 3 - Escolha do Botão 3
+Ao escolher o túnel mais à direita, o grupo entra em uma câmara de armamentos antigos, onde espadas, lanças e escudos estão empilhados ao redor de uma estranha inscrição no chão. Baldric, o aprendiz de alquimista, percebe que o desenho no chão é uma runa de proteção. Dois botões na parede indicam outras passagens:
+
+Botão 9: Seguir para uma passagem secreta sob a runa, que pode levá-los a um túnel de fuga.
+Botão 10: Tentar descobrir mais sobre o poder da runa e se concentrar em ativá-la.
+
+Passo 4 - Escolha do Botão 4 - Vitória
+Ao explorar o caminho à esquerda e se aproximar da luz, eles encontram um santuário escondido, onde está a relíquia original do amuleto. Era uma versão ainda mais poderosa, oculta desde tempos antigos para proteger o vilarejo. A missão deles estava completa; com o amuleto seguro e escondido, Lorde Edwyn garante a proteção da fortaleza e do vilarejo contra qualquer invasor. Vitória!
+
+Passo 5 - Escolha do Botão 5
+Ao descer para o salão principal, eles se deparam com uma cena caótica; o grupo de invasores já conseguiu infiltrar-se na fortaleza. Eles têm duas opções rápidas:
+
+Botão 7: Esconder-se na adega e aguardar uma oportunidade para lutar de forma estratégica.
+Botão 8: Organizar uma emboscada nas escadarias para defender o salão principal.
+
+Passo 6 - Escolha do Botão 6 - Derrota
+Ao tentarem fugir pela passagem secreta, o grupo é encurralado por bandidos que já haviam encontrado essa saída. Sem chance de lutar, o amuleto é roubado, e o vilarejo de Caledor fica vulnerável. Derrota.
+
+Passo 7 - Escolha do Botão 7 - Vitória
+Escondidos na adega, o grupo consegue ver o momento ideal para emboscar os invasores, pegando-os desprevenidos. A batalha é árdua, mas ao final, eles conseguem proteger o amuleto e restabelecer a paz no vilarejo. Vitória!
+
+Passo 8 - Volta para Passo 1
+Caso o grupo consiga defender a fortaleza, eles retornam para o ponto de partida e precisam decidir se devem explorar novamente as portas para verificar se há mais perigos.
+
+Passo 9 - Vitória
+Ao seguir a passagem secreta (Botão 9), eles encontram uma saída segura que os leva até uma caverna protegida, onde podem ocultar o amuleto para sempre. Vitória!
+
+Passo 10 - Derrota
+Ao tentar ativar a runa (Botão 10), eles acabam liberando uma antiga maldição que aprisiona todos no local, deixando o amuleto exposto aos inimigos. Derrota.
+
+A história da Fortaleza de Caledor é repleta de desafios e decisões, cada uma levando o grupo a caminhos de vitória ou derrota, e, ao final, apenas os mais prudentes e bravos garantirão a proteção do vilarejo e a paz para Caledor.]
